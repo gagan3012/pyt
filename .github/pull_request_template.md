@@ -10,3 +10,4 @@ Fixes # (issue)
 <!-- Please delete options that are not relevant. -->
 - [ ] 📚  Documentation Update
 - [ ] 🧪 Tests Cases
+- [ ] 🐞 Bug fix (non-breaking change which fixes an issue)
