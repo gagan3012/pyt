@@ -50,3 +50,4 @@ jobs:
           pip install flit
           flit install --deps all
           python tests  # download test data
+      - name: Generate Coverage Report
