@@ -3,3 +3,4 @@ documentation:
 - docs/**/*
 
 example:
+- examples/**/*
