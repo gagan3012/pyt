@@ -17,3 +17,5 @@ jobs:
           - os: ubuntu-latest
             path: ~/.cache/pip
           - os: macos-latest
+            path: ~/Library/Caches/pip
+    env:
