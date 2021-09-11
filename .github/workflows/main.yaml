@@ -64,3 +64,4 @@ jobs:
       - name: Generate Coverage Report
         run: |
           coverage report -m -i
+          coverage xml -i
