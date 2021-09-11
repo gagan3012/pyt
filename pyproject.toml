@@ -5,3 +5,4 @@ build-backend = "flit_core.buildapi"
 [project]
 name = "pyt"
 authors = [{name = "Gagan Bhatia", email = "gbhatia880@gmail.com"}]
+readme = "README.md"
