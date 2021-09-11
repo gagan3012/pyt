@@ -19,3 +19,4 @@ jobs:
           - os: macos-latest
             path: ~/Library/Caches/pip
     env:
+      OS: ${{ matrix.os }}
