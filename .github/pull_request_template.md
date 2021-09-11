@@ -11,3 +11,4 @@ Fixes # (issue)
 - [ ] 📚  Documentation Update
 - [ ] 🧪 Tests Cases
 - [ ] 🐞 Bug fix (non-breaking change which fixes an issue)
+- [ ] 🔬 New feature (non-breaking change which adds functionality)
