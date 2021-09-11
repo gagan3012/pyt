@@ -29,3 +29,4 @@ jobs:
           fetch-depth: 0  # Shallow clones should be disabled for a better relevancy of analysis
 
       - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v2
