@@ -36,5 +36,6 @@ jobs:
       - name: Cache pip
         uses: actions/cache@v2
         with:
+          path: ${{ matrix.path }}
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
