@@ -7,3 +7,4 @@ name = "pyt"
 authors = [{name = "Gagan Bhatia", email = "gbhatia880@gmail.com"}]
 readme = "README.md"
 classifiers = ["License :: OSI Approved :: MIT License"]
+dynamic = ["version", "description"]
