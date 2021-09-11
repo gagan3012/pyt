@@ -45,3 +45,4 @@ jobs:
       - name: Install dependencies
         run: |
           python --version
+          pip --version
