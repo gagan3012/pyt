@@ -6,3 +6,5 @@ on:
     branches: [ main ]
 
 
+jobs:
+  pytest:
