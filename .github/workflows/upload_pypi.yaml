@@ -9,3 +9,4 @@ jobs:
 
     steps:
       - uses: actions/checkout@master
+      - name: Set up Python 3.9
