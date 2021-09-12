@@ -22,3 +22,4 @@ jobs:
           --user
       - name: Build a binary wheel and a source tarball
         run: >-
+          flit build
