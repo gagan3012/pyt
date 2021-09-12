@@ -20,3 +20,4 @@ jobs:
           pip install
           build flit
           --user
+      - name: Build a binary wheel and a source tarball
