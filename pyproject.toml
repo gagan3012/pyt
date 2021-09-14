@@ -22,6 +22,7 @@ classifiers = [
     "Programming Language :: Python :: 3 :: Only",
     "Programming Language :: Python :: 3.7",
     "Programming Language :: Python :: 3.8",
+]
 
 [project.urls]
 Home = "https://github.com/gagan3012/pyt"
