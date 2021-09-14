@@ -15,6 +15,7 @@ classifiers = [
     "Intended Audience :: Information Technology",
     "Operating System :: OS Independent",
     "Development Status :: 4 - Beta",
+    "Programming Language :: Python :: 3 :: Only",
 
 [project.urls]
 Home = "https://github.com/gagan3012/pyt"
