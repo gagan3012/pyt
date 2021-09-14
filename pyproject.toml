@@ -15,6 +15,7 @@ classifiers = [
     "Intended Audience :: Information Technology",
     "Operating System :: OS Independent",
     "Development Status :: 4 - Beta",
+    "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3 :: Only",
 
 [project.urls]
