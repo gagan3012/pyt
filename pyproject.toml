@@ -37,3 +37,4 @@ style = ["black", "isort", "nbstripout"]
 test = [
     "pytest",
     "coverage",
+]
