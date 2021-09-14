@@ -32,3 +32,4 @@ requires = [
 Home = "https://github.com/gagan3012/pyt"
 
 
+[tool.flit.metadata.requires-extra]
