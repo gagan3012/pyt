@@ -12,6 +12,7 @@ classifiers = [
     "Topic :: Software Development :: Libraries :: Python Modules",
     "Topic :: Software Development :: Libraries",
     "Topic :: Software Development",
+    "Intended Audience :: Information Technology",
 
 [project.urls]
 Home = "https://github.com/gagan3012/pyt"
