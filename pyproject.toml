@@ -14,6 +14,7 @@ classifiers = [
     "Topic :: Software Development",
     "Intended Audience :: Information Technology",
     "Operating System :: OS Independent",
+    "Typing :: Typed",
     "Development Status :: 4 - Beta",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3 :: Only",
