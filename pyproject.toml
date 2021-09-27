@@ -6,7 +6,6 @@ build-backend = "flit_core.buildapi"
 name = "pyt"
 authors = [{name = "Gagan Bhatia", email = "gbhatia880@gmail.com"}]
 readme = "README.md"
-classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
 classifiers = [
     "Topic :: Software Development :: Libraries :: Python Modules",
