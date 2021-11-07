@@ -1,4 +1,4 @@
-from pyt.core import hello
+from pyt.pyt import hello
 
 
 def test_hello():
